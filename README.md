@@ -28,7 +28,7 @@ git commit -m"我的修改"
 ```
 
 ```shell
-git commit -am"我的修改"(上两部的整合)
+git commit -am"我的修改"(上两步的整合)
 ```
 
 ```shell
