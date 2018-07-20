@@ -39,5 +39,7 @@ git push -u origin SJQ 推到远端分支SJQ上
 git pull origin SJQ (拉取分支SJQ到本地)
 ```
 
-
+```shell
+git checkout -b ** (查看或新建分支)
+```
 
